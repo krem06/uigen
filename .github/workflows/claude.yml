@@ -41,7 +41,8 @@ jobs:
             actions: read
 
           custom_instructions: |
-          Project already setup with all dependendencies installed. Server running on localhost:3000, logss from it available at logs.txt. If needed use mcp__playwright set of tools to interact with browser.
+            Project already setup with all dependendencies installed.
+            Server running on localhost:3000, logss from it available at logs.txt. If needed use mcp__playwright set of tools to interact with browser.
 
           mcp_config: |
             {
